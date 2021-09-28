@@ -13,7 +13,8 @@ console.log("Numbers list befor sorting: ",numbers)
 function bubbleSort(numbers) 
 {
     var done = false;
-    while (!done) {
+    while (!done) 
+    {
       done = true;
       for (var i = 1; i < numbers.length; i++) 
       {
@@ -29,7 +30,7 @@ function bubbleSort(numbers)
     }
     return numbers;
     
-  }
+ }
 bubbleSort(numbers);
 
 //Here the o/p will be the numbers after sorting in ASC 
