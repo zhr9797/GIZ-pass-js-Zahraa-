@@ -1,6 +1,6 @@
 //NOTE : All comments are above the phrases I want to comment on
 //buble sort in javascript 
-//Define an array of numbers to be arranged (i used the same numbers in output.txt)
+//Define an array of numbers to be arranged (i used the same numbers in data.txt)
 
 var numbers = [10, 10, 31, 19, 18, 21, 55, 23, 20, 10, 10, 78, 80, 99, 15];
 
